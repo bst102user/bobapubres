@@ -13,7 +13,6 @@ import 'package:flutterrestaurant/utils/utils.dart';
 import 'package:flutterrestaurant/viewobject/common/ps_value_holder.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_seekbar/flutter_seekbar.dart';
 import 'package:flutter_xlider/flutter_xlider.dart';
 
 class ProfileView extends StatefulWidget {
