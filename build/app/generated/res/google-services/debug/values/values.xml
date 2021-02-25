@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">326618636294-vnqukklm3fndpld2mc4kesd26r72j9nt.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">326618636294</string>
+    <string name="google_api_key" translatable="false">AIzaSyAcU2pkiOg1u5OZ190euaB-t7RB9yVysMA</string>
+    <string name="google_app_id" translatable="false">1:326618636294:android:0207d649e001e8b51ae387</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAcU2pkiOg1u5OZ190euaB-t7RB9yVysMA</string>
+    <string name="google_storage_bucket" translatable="false">restaurantboba.appspot.com</string>
+    <string name="project_id" translatable="false">restaurantboba</string>
+</resources>

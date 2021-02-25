@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "326618636294",
+    "project_id": "restaurantboba",
+    "storage_bucket": "restaurantboba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326618636294:android:0207d649e001e8b51ae387",
+        "android_client_info": {
+          "package_name": "io.app.bobaPubRes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326618636294-vnqukklm3fndpld2mc4kesd26r72j9nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcU2pkiOg1u5OZ190euaB-t7RB9yVysMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326618636294-vnqukklm3fndpld2mc4kesd26r72j9nt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326618636294-597b8i4re0turd5s32qh802sm68o6neo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.app.bobaPubRes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326618636294:android:2c5025a06caa33e71ae387",
+        "android_client_info": {
+          "package_name": "io.app.boba_pub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326618636294-j7q89ki0fu4bbbnot20hvcp90ei1ee04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.app.boba_pub",
+            "certificate_hash": "6309b786f54be4339d3f1373d15d865c2f61aab0"
+          }
+        },
+        {
+          "client_id": "326618636294-vnqukklm3fndpld2mc4kesd26r72j9nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcU2pkiOg1u5OZ190euaB-t7RB9yVysMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326618636294-vnqukklm3fndpld2mc4kesd26r72j9nt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326618636294-597b8i4re0turd5s32qh802sm68o6neo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.app.bobaPubRes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326618636294:android:e39dffc5084ce11b1ae387",
+        "android_client_info": {
+          "package_name": "io.app.bobapub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326618636294-l7hos7np71mmk0d2l39qs8u4cn8g5kr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.app.bobapub",
+            "certificate_hash": "6309b786f54be4339d3f1373d15d865c2f61aab0"
+          }
+        },
+        {
+          "client_id": "326618636294-vnqukklm3fndpld2mc4kesd26r72j9nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcU2pkiOg1u5OZ190euaB-t7RB9yVysMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326618636294-vnqukklm3fndpld2mc4kesd26r72j9nt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326618636294-597b8i4re0turd5s32qh802sm68o6neo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.app.bobaPubRes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
