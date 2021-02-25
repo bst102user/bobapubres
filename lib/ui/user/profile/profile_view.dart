@@ -477,6 +477,7 @@ class __ProfileDetailWidgetState extends State<_ProfileDetailWidget> {
                                                 smallCircle(color5),
                                                 getDivider(width*0.132, Colors.grey),
                                                 // getDivider(width*0.132, Colors.grey),
+                                                // getDivider(width*0.132, Colors.grey),
                                               ]),
                                         ],
                                       ),
