@@ -9,6 +9,7 @@ class RangeSliderSizeWidget extends StatefulWidget {
 
 class _RangeSliderSizeWidgetState extends State<RangeSliderSizeWidget> {
   RangeValues values = RangeValues(10, 40);
+  // RangeValues values = RangeValues(10, 40);
 
   @override
   Widget build(BuildContext context) {
