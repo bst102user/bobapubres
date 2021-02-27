@@ -11,6 +11,7 @@ class RangeSliderShapeWidget extends StatefulWidget {
 class _RangeSliderShapeWidgetState extends State<RangeSliderShapeWidget> {
   static final labels = ['0', '18', '30', '50', '+'];
   static final double min = 0;
+  // static final double min = 0;
   static final double max = labels.length - 1.0;
 
   RangeValues values = RangeValues(0, 2);
